@@ -1,0 +1,9 @@
+inserted: a
+a
+inserted: c
+a c
+dictionary saved in file dict.txt
+cleared
+
+dictionary loaded from file dict.txt
+a c

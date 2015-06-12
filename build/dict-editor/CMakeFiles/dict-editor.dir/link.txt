@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -O3    CMakeFiles/dict-editor.dir/dict-editor.c.o  -o dict-editor -rdynamic ../dictionary/libdictionary.a ../vector/libvector.a 

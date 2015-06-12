@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/supermaja/spellcheck3/src/dict-check/dict-check.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+locale.h
+-
+wctype.h
+-
+errno.h
+-
+dictionary.h
+/home/supermaja/spellcheck3/src/dict-check/dictionary.h
+
+/home/supermaja/spellcheck3/src/dictionary/dictionary.h
+word_list.h
+/home/supermaja/spellcheck3/src/dictionary/word_list.h
+stdbool.h
+-
+stdio.h
+-
+wchar.h
+-
+
+/home/supermaja/spellcheck3/src/dictionary/word_list.h
+wchar.h
+-
+

@@ -1,0 +1,10 @@
+/home/supermaja/spellcheck3/debug/dict-check/CMakeFiles/dict-check.dir
+/home/supermaja/spellcheck3/debug/dict-editor/CMakeFiles/dict-editor.dir
+/home/supermaja/spellcheck3/debug/dictionary/CMakeFiles/dictionary.dir
+/home/supermaja/spellcheck3/debug/dictionary/CMakeFiles/dictionary_test.dir
+/home/supermaja/spellcheck3/debug/CMakeFiles/doc.dir
+/home/supermaja/spellcheck3/debug/gtk-editor/CMakeFiles/editor.dir
+/home/supermaja/spellcheck3/debug/dictionary/CMakeFiles/trie_test.dir
+/home/supermaja/spellcheck3/debug/vector/CMakeFiles/vector.dir
+/home/supermaja/spellcheck3/debug/vector/CMakeFiles/vector_test.dir
+/home/supermaja/spellcheck3/debug/dictionary/CMakeFiles/word_list_test.dir

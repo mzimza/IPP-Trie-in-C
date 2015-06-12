@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -O3    CMakeFiles/dictionary_test.dir/word_list.c.o CMakeFiles/dictionary_test.dir/trie.c.o CMakeFiles/dictionary_test.dir/dictionary_test.c.o  -o dictionary_test -rdynamic /usr/local/lib/libcmocka.so ../vector/libvector.a -Wl,-rpath,/usr/local/lib 

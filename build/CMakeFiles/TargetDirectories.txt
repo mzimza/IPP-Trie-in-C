@@ -1,0 +1,9 @@
+/home/supermaja/spellcheck3/build/dict-check/CMakeFiles/dict-check.dir
+/home/supermaja/spellcheck3/build/dict-editor/CMakeFiles/dict-editor.dir
+/home/supermaja/spellcheck3/build/dictionary/CMakeFiles/dictionary.dir
+/home/supermaja/spellcheck3/build/dictionary/CMakeFiles/dictionary_test.dir
+/home/supermaja/spellcheck3/build/CMakeFiles/doc.dir
+/home/supermaja/spellcheck3/build/dictionary/CMakeFiles/trie_test.dir
+/home/supermaja/spellcheck3/build/vector/CMakeFiles/vector.dir
+/home/supermaja/spellcheck3/build/vector/CMakeFiles/vector_test.dir
+/home/supermaja/spellcheck3/build/dictionary/CMakeFiles/word_list_test.dir

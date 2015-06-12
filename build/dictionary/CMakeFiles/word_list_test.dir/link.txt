@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -O3    CMakeFiles/word_list_test.dir/word_list.c.o CMakeFiles/word_list_test.dir/word_list_test.c.o  -o word_list_test -rdynamic /usr/local/lib/libcmocka.so -Wl,-rpath,/usr/local/lib 

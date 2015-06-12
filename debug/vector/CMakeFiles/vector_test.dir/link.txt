@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -pedantic -g    CMakeFiles/vector_test.dir/vector_test.c.o  -o vector_test -rdynamic /usr/local/lib/libcmocka.so -Wl,-rpath,/usr/local/lib 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -pedantic -g    CMakeFiles/dict-check.dir/dict-check.c.o  -o dict-check -rdynamic ../dictionary/libdictionary.a ../vector/libvector.a 

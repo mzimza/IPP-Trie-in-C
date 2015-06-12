@@ -1,0 +1,9 @@
+insert a
+hints b
+insert c
+hints b
+save dict.txt
+clear
+hints b
+load dict.txt
+hints b
